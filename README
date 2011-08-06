@@ -1,0 +1,2 @@
+sudo ln -s <absolute_path_to_wwh.py> /usr/bin/wwh
+
